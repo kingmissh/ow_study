@@ -34,5 +34,13 @@ dist/
 build/
 out/
 
+# Source code repositories (克隆的源码仓库)
+09-source-code/openclaw/
+09-source-code/clawhub/
+09-source-code/skills/
+09-source-code/lobster/
+09-source-code/*/.git/
+09-source-code/*/node_modules/
+
 # Personal notes (if you want to keep them private)
 # 10-notes/私人笔记.md
