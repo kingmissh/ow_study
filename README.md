@@ -4,7 +4,8 @@
 
 OpenClaw 是一个开源的个人 AI 助手平台，可以在本地运行并通过消息应用（Telegram、WhatsApp、Discord 等）进行交互。
 
-**GitHub 仓库**: https://github.com/openclaw/openclaw  
+**本项目仓库**: https://github.com/giahan6182-eng/openclaw-study  
+**OpenClaw GitHub**: https://github.com/openclaw/openclaw  
 **官方网站**: https://openclaw.ai  
 **技能市场**: https://clawhub.com
 
@@ -53,6 +54,43 @@ openclaw-study/
 ├── 09-source-code/         # 源码分析
 └── 10-notes/               # 学习笔记
 ```
+
+---
+
+## 🚀 快速开始
+
+### 一键克隆
+
+```bash
+git clone https://github.com/giahan6182-eng/openclaw-study.git
+cd openclaw-study
+```
+
+### 或直接下载 ZIP
+
+直接下载：https://github.com/giahan6182-eng/openclaw-study/archive/refs/heads/main.zip
+
+或访问仓库页面：
+1. 访问 https://github.com/giahan6182-eng/openclaw-study
+2. 点击 "Code" → "Download ZIP"
+
+### 开始学习
+
+```bash
+# 查看项目说明
+cat README.md
+
+# 从基础开始
+cd 01-basics
+cat 01-项目背景.md
+```
+
+### 详细指南
+
+- 📥 **完整克隆指南**：[克隆指南.md](./克隆指南.md) - 多种克隆方式、跨平台注意事项
+- 🚀 **GitHub 上传指南**：[快速开始.md](./快速开始.md) - 如何上传项目到 GitHub
+- ⚡ **快速参考**：[快速克隆.md](./快速克隆.md) - 最简洁的克隆命令
+- 🛠️ **环境搭建**：[01-basics/03-环境搭建.md](./01-basics/03-环境搭建.md) - OpenClaw 环境配置
 
 ---
 
