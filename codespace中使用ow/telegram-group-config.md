@@ -84,8 +84,8 @@ openclaw gateway restart
   "channels": {
     "telegram": {
       "enabled": true,
-      "dmPolicy": "pairing",
-      "botToken": "8210848222:AAEby47gUGxbJhhvtKiqSA4HPvyjydVR3yo",
+      "dmPolicy": "open",
+      "botToken": "8210848222:AAFL5mlmjwdHqdjftnw4ebY7astf44nqwzw",
       "groups": {
         "-1003554523788": {
           "requireMention": false
